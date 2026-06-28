@@ -1,3 +1,4 @@
+#To create repository on Git 
 # My_Git_Repo
 $ echo "# My_Git_Repo" >> README.md
 git init
